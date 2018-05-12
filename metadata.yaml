@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4149'
     url: http://www.gutenberg.org/2009/agents/4149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33498#Bransford-of-Rainbow-RangeOriginally-Published-under-the-title-of-Bransford-in-Arcadia-or-The_
 gutenberg_issued: '2010-08-25'
 gutenberg_type: Text
 identifiers:
